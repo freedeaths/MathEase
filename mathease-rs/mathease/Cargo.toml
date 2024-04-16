@@ -1,0 +1,14 @@
+[package]
+name = "mathease"
+version = "0.0.1"
+edition = "2021"
+authors = ["Freedeaths <register917@gmail>"]
+description = "A practical mathematical toolbox for Rust."
+license = "MIT"
+repository = "https://github.com/Freedeaths/mathease-rs"
+# readme = "README.md"
+keywords = ["math", "mathematics"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
